@@ -1,3 +1,3 @@
 # Zenless Zone Zero Data
-Language
-(한국어)[#](English)[#]
+Language<br>
+[한국어](#)[English](#)
