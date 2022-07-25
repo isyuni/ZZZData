@@ -9,5 +9,5 @@ Please select a language for this article.<br>
 본 데이터를 제공하는 Usyuns(이하 '데이터제공자')는 HoYoverse나 Zenless Zone Zero(ZZZ)의 계열사나 관계사가 아닙니다. Zenless Zone Zero는 COGNOSPHERE PTE. LTD.의 등록 상표입니다. 본 데이터는 출처를 남기지 않고도 자유롭게 사용할 수 있습니다. 하지만, 본 데이터를 올바르게 사용하지 않고, COGNOSPHERE에게 제재를 당하여도 데이터제공자에게는 아무런 책임이 없습니다. 2022년 7월 25일 자로 Random Play의 와이즈&벨의 데이터 정보는 존재하지 않습니다. 추후 정보가 많이 나올 시 추가될 예정입니다.
 
 ## 본 데이터를 이용하는 곳
-ZZZ 커뮤니티: 'BangBoo' Discord Bot test
+ZZZ 커뮤니티: 'BangBoo' Discord Bot
  
