@@ -10,3 +10,4 @@ Please select a language for this article.<br>
 
 ## 본 데이터를 이용하는 곳
 ZZZ 커뮤니티: 'BangBoo' Discord Bot
+세야 병신
