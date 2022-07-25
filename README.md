@@ -1,4 +1,4 @@
-Please select a language for this article.<br>
+Please select a language for this repository.<br>
 본 글의 언어를 선택하십시오.<br>
 [한국어](#) | [English](#)
 
