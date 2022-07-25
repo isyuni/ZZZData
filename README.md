@@ -1,2 +1,3 @@
 # Zenless Zone Zero Data
-Repository containing the data for the game Zenless Zone Zero.
+Language
+(한국어)[#](English)[#]
