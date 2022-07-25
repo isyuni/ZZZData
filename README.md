@@ -1,2 +1,2 @@
-# Zenless Zone Zero Character Data
+# Zenless Zone Zero Data
 Repository containing the data for the game Zenless Zone Zero.
