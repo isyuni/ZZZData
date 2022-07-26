@@ -9,4 +9,4 @@ Select the language in which you want to read the description(README.md) for thi
 
 #
 
-Please Give a ⭐ for this repository! (Just wish)<br>이 레파지토리에 ⭐을 주세요! (그저 바램)
+Please Give a ⭐ for this repository! (Just wish EHE)<br>이 레파지토리에 ⭐을 주세요! (그저 바램 에헤)
