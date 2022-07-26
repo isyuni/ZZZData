@@ -7,8 +7,8 @@ However, what happens when you don't read README.md is all personal negligence.<
 읽지 않더라도 상관없지만, 중요한 내용이 많이 들어있어서 읽어보시면 좋을 것 같습니다.<br>
 하지만, README.md를 읽지 않아서 생기게 되는 일은 모두 개인의 과실입니다.<br><br>
 
-Please select a language for this repository.<br>
-본 글의 언어를 선택하십시오.<br>
+Select the language in which you want to read the description for this repository.<br>
+이 리포지토리에 대한 설명을 읽을 언어를 선택해주세요.<br>
 [한국어](https://github.com/Usyuns/ZZZData/blob/main/Languages/ko-kr/README.md) | [English](https://github.com/Usyuns/ZZZData/blob/main/Languages/en-us/README.md)
 
 #
