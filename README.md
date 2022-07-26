@@ -9,5 +9,5 @@ Select the language in which you want to read the description(README.md) for thi
 
 #
 
-There is no need to indicate the source, but I would appreciate it if you could appeal the existence of the repertoire with GitHub's star function.<br>
+There is no need to indicate the source, but I would appreciate it if you could appeal the existence of the repository with GitHub's star function.<br>
 출처 표기는 할 필요가 없으나 깃허브의 스타 기능으로 해당 레파지토리의 존재를 어필해 주시면 감사하겠습니다.
