@@ -9,5 +9,4 @@ Select the language in which you want to read the description(README.md) for thi
 
 #
 
-There is no need to indicate the source, but I would appreciate it if you could appeal the existence of the repository with GitHub's ⭐ function.<br>
-출처 표기는 할 필요가 없으나 깃허브의 ⭐ 기능으로 해당 레파지토리의 존재를 어필해 주시면 감사하겠습니다.
+Please Give a ⭐ for this repository! (Just wish)<br>이 레파지토리에 ⭐을 주세요! (그저 바램)
