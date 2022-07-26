@@ -1,6 +1,6 @@
 <div align="center">
   <h1><code>Zenless Zone Zero Data Repository</code></h1>
-</div>>
+</div>
 Contributors: <a href="https://github.com/Usyuns">@Usyuns</a> & <a href="https://github.com/SeyaWhy">@SeyaWhy</a>
 
 Familiarize yourself with README.md before using the repository. It doesn't matter if you don't read it, but it's better to read it because it contains a lot of important contents. Also, what happens when you don't read README.md is all personal negligence.<br>
