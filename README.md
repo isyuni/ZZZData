@@ -9,5 +9,7 @@ Please select a language for this repository.<br>
 본 글의 언어를 선택하십시오.<br>
 [한국어](https://github.com/Usyuns/ZZZData/blob/main/Languages/ko-kr/README.md) | [English](https://github.com/Usyuns/ZZZData/blob/main/Languages/en-us/README.md)
 
-## 본 데이터를 이용하는 곳
-ZZZ 커뮤니티: 'BangBoo' Discord Bot
+#
+
+There is no need to indicate the source, but I would appreciate it if you could appeal the existence of the repertoire with GitHub's star function.<br>
+출처 표기는 할 필요가 없으나 깃허브의 스타 기능으로 해당 레파지토리의 존재를 어필해 주시면 감사하겠습니다.
