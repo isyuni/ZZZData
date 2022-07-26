@@ -1,3 +1,8 @@
+# WELCOME HERE
+
+We would appreciate it if you could familiarize yourself with README.md before using the repository.
+레파지토리를 사용 전에 README.md를 숙지해주시면 감사하겠습니다.<br><br>
+
 Please select a language for this repository.<br>
 본 글의 언어를 선택하십시오.<br>
 [한국어](#) | [English](https://github.com/Usyuns/ZZZData/blob/main/Languages/en-us/README.md)
