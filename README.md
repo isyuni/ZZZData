@@ -1,6 +1,6 @@
 # WELCOME HERE
 
-We would appreciate it if you could familiarize yourself with README.md before using the repository.
+We would appreciate it if you could familiarize yourself with README.md before using the repository.<br>
 레파지토리를 사용 전에 README.md를 숙지해주시면 감사하겠습니다.<br><br>
 
 Please select a language for this repository.<br>
