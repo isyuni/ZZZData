@@ -6,8 +6,8 @@
 
 #
 
-Familiarize yourself with README.md before using the repository. It doesn't matter if you don't read it, but it's better to read it because it contains a lot of important contents. Also, what happens when you don't read README.md is all personal negligence.<br>
-저장소를 사용하기 전에 README.md를 숙지해주세요. 않 읽더라도 상관은 없지만, 중요한 내용이 많이 들어있어서 읽어보시는 편이 좋을 것 입니다. 또한, README.md를 읽지 않아서 생기게 되는 일은 모두 개인의 과실입니다.<br><br>
+Please read README.md before using the repository. It doesn't matter if you don't read it, but it's better to read it because it contains a lot of important contents. Please note that everything that happens when you don't read README.md is your fault.<br>
+저장소를 사용하기 전에 README.md를 읽어주세요. 않 읽더라도 상관은 없지만, 중요한 내용이 많이 들어있어서 읽어보시는 편이 좋을 것 입니다. 참고로 README.md를 읽지 않아서 생기게 되는 일은 모두 자신의 잘못이라는 점 알아주시길 바랍니다.<br><br>
 
 Select the language in which you want to read the description(README.md) for this repository.<br>
 이 리포지토리에 대한 설명(README.md)을 읽을 언어를 선택해주세요.<br>
