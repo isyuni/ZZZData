@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://img.shields.io/github/watchers/Usyuns/ZZZData?style=social"> <img src="https://img.shields.io/github/forks/Usyuns/ZZZData?style=social"> <img src="https://img.shields.io/github/stars/Usyuns/ZZZData?style=social">
-</div>
+
 
 <div align="center">
   <h1><code>Zenless Zone Zero Data Repository</code></h1>
