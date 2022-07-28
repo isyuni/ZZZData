@@ -6,7 +6,9 @@
 
 #
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Usyuns/ZZZData)
+![GitHub repo size](https://img.shields.io/github/repo-size/Usyuns/ZZZData?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Usyuns/ZZZData?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Usyuns/ZZZData?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Usyuns/ZZZData?style=social)
 
 Please read README.md before using the repository. It doesn't matter if you don't read it, but it's better to read it because it contains a lot of important contents. Please note that everything that happens when you don't read README.md is your fault.<br>
