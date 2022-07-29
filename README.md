@@ -13,4 +13,4 @@ Please read README.md before using the repository. It doesn't matter if you don'
 
 Select the language in which you want to read the description(README.md) for this repository.<br>
 이 리포지토리에 대한 설명(README.md)을 읽을 언어를 선택해주세요.<br>
-[한국어](https://github.com/Usyuns/ZZZData/blob/main/Languages/ko-kr/README.md) | [English](https://github.com/Usyuns/ZZZData/blob/main/Languages/en-us/README.md)
+[한국어](https://github.com/Usyuns/ZZZData/blob/main/Languages/ko-kr/) | [English](https://github.com/Usyuns/ZZZData/blob/main/Languages/en-us/)
