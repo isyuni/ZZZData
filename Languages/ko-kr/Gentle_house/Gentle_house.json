@@ -6,6 +6,11 @@
         "logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/07/5196e6764e97e7ddd59cd947afcd8141_7851060951682276850.png"
     },
     {
-        "character": [{ "네코미야 마나", "엔비 데마라", "니콜 데마라", "빌리 키드" }]
+        "character": [
+            "네코미야 마나",
+            "엔비 데마라",
+            "니콜 데마라",
+            "빌리 키드"
+        ]
     }
 ]
