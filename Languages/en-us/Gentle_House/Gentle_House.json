@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Gentle House AKA Cunning Hares",
+        "description": "The Cunning Hares are always available for the right price!",
+        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/a09d587077f96ac053d4aeabc9de5394_1408249596052562615.png",
+        "logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/07/5196e6764e97e7ddd59cd947afcd8141_7851060951682276850.png"
+    },
+    {
+        "character": [
+            "Nekomiya Mana",
+            "Anby Demara",
+            "Nicole Demara",
+            "Billy Kid"
+        ]
+    }
+]
