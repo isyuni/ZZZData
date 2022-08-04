@@ -4,8 +4,8 @@
         "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/dda254b8c179338463ae9dcfbc0cc2e1_6612156559517880544.png",
         "des": "Your personal attendant Lycaon, at your service.——Von Lycaon",
         "faction": "Victoria Housekeeping Co.",
-        "cv-jp": "Kobayashi Chikahiro",
-        "cv-cn": "王宇航",
+        "cv_jp": "Kobayashi Chikahiro",
+        "cv_cn": "王宇航",
         "color": "#d0d3e0"
     },
     {
