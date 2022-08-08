@@ -1,7 +1,7 @@
 [
     {
         "name": "엔비 데마라",
-        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/18/ba3e92bf0ea390a702969b204ae562f3_3515216936997121656.png",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/18/ba3e92bf0ea390a702969b204ae562f3_3515216936997121656.png",
         "des": "목표 확인, 행동 개시——엔비 데마라",
         "faction": "교활한 토끼굴",
         "cv_jp": "Tanezaki Atsumi",
@@ -12,6 +12,7 @@
         "about": "과거와 나이를 알 수 없는 소녀. 왜인지 모르나 노련하고 효율적인 전투 스타일을 가지고 있다.\n우연히 니콜에 의해 「주워」져 「교활한 토끼굴」 소속이 된 이후 점점 강력하고도 믿음직한 동료로 성장하고 있다.\n영화를 좋아하나 부족한 상식으로 인해 영화 스토리를 진실이라 착각하며 이를 따라 한다….",
         "intro": "마치 과거가 없는 것처럼 자신의 과거를 절대 밝히지 않는 수수께끼의 소녀이다. 침착하고 냉정한 성격에 노련하고 효율적인 전투 스타일은 과거에 오랫동안 훈련을 받은 것만 같다. 니콜이 우연히 그녀를 「주워」오며 「교활한 토끼굴」 소속이 됐다. 이로 인해 그녀는 새끼 새 같은 감정으로 니콜에게 의지한다. 평소 영화 보는 걸 좋아하지만, 부족한 상식으로 인해 항상… 영화를 실제로 착각한다.",
         "op-public": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/15/3b957a1899c1d6a2d0b60d8b28693189_2899099543427739368.jpg",
-        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/fad25bf52598f72ee0f4005d9c4f2d8f_4218352465960287352.png"
+        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/fad25bf52598f72ee0f4005d9c4f2d8f_4218352465960287352.png",
+        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/26/e260899da663a2cc17ef02ad46183faf_4242164234157664919.png"
     }
 ]

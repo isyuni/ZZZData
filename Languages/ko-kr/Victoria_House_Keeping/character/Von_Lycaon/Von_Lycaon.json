@@ -1,7 +1,7 @@
 [
     {
         "name": "본 리카온",
-        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/dda254b8c179338463ae9dcfbc0cc2e1_6612156559517880544.png",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/dda254b8c179338463ae9dcfbc0cc2e1_6612156559517880544.png",
         "des": "집사 리카온, 귀하의 지명에 감사드립니다——본 리카온",
         "faction": "빅토리아 홈서비스",
         "cv_jp": "Kobayashi Chikahiro",
@@ -12,6 +12,7 @@
         "about": "집사 필요하신가요?\n\n잠깐! 「필요 없어」라는 말을 하기 전에 제 말을 좀 들어보세요!\n제가 말하는 건 평범한 집사가 아니라 집사의 교과서라고 해도 과언이 아닌 엘리트에요! 품위 있고 이성적이며, 믿음직하기 그지없는 데다가 \n계약 기간 내에는 당신을 귀족처럼 받들어 모시면서 세상 끝까지 따라다니며 당신을 보좌할 수 있는 그런 집사죠!\n\n네? 흥미롭다고요? 다행이네요!\n아, 맞다! 그 집사가 털북숭이에다가 날카로운 이빨, 보송보송한 귀, 풍성한 꼬리를 가지고 있다고 해도 개의치 않으시겠죠?\n 좋아요~ 그럼 이제 빅토리아 홈서비스의 리카온을 소개해 드리겠습니다.",
         "intro": "무슨 일이든 원만하게 해결하여 고객이 가장 신뢰하는 집사이자 파티에서 가장 든든한 방패이다. 이성적이면서도 현명하고 신사처럼 우아하며, 조금의 얼룩도 용납하지 않는다. 누군가를 따르기로 결정하면 그 사람에게 절대적으로 충성한다. 평소에는 우아하고 이성적이지만 모종의 위험이 닥치면 타고난 야성을 드러낸다.",
         "op-public": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/22/b9a4d4b02537d59ff78e9b126e46e0ed_1609582579907858224.png",
-        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/e7d5576f39e9c3f49848232b2ae2bca7_2450519169339598574.png"
+        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/e7d5576f39e9c3f49848232b2ae2bca7_2450519169339598574.png",
+        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/be629e986380c894d4104435fda2d348_5184507841951653932.png"
     }
 ]

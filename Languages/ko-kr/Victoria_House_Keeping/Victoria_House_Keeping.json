@@ -2,8 +2,9 @@
    {
       "name": "빅토리아 홈서비스",
       "description": "빅토리아 홈서비스를 지명해 주셔서 감사합니다.\n주인님의 바람이 제 사명이에요.",
-      "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/991bf8f1f922014b3b6aa7a767541f8f_8843362712133617990.png",
-      "logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/7eda813e089f1bdcec4e7c7e93b101d6_71125374000967079.png"
+      "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/991bf8f1f922014b3b6aa7a767541f8f_8843362712133617990.png",
+      "logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/13/7eda813e089f1bdcec4e7c7e93b101d6_71125374000967079.png",
+      "color": "#241E2D"
    },
    {
       "character": [
