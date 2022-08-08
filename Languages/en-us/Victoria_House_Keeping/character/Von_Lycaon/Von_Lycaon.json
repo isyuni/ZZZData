@@ -1,7 +1,7 @@
 [
     {
         "name": "Von Lycaon",
-        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/dda254b8c179338463ae9dcfbc0cc2e1_6612156559517880544.png",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/dda254b8c179338463ae9dcfbc0cc2e1_6612156559517880544.png",
         "des": "Your personal attendant Lycaon, at your service.——Von Lycaon",
         "faction": "Victoria Housekeeping Co.",
         "cv_jp": "Kobayashi Chikahiro",
@@ -12,6 +12,7 @@
         "about": "Do you need a personal attendant?\n\nWait! Before you say No without thinking, lemme finish!\nI'm not talking about an ordinary attendant, I'm talking about the kind of professionals you see described in a dictionary when you look up the word attendant! These rational, reliable elites will serve you as if you are royalty and follow you to the edge of the world (during the contract period, of course). With their help, you'll be able to focus on being a better person, free of worldly worries... That's the kind of attendant I'm talking about!\n\nOhh? You're interested? That's great!\nOh by the way, you won't mind that he's covered in fur, has sharp teeth, fuzzy ears, and a fluffy tail, right?\nGreat~ Now lemme introduce to you this outstanding attendant from Victoria Housekeeping Co. — Lycaon.",
         "intro": "Can resolve any matter. The most trusted of attendants, and solid support for any team. Rational and wise, a true gentleman who can't tolerate a single stain. Offers absolute loyalty to the one he decides to follow. Though outwardly sophisticated and rational, his innate feral character will reveal itself when faced with certain dangers.",
         "op-public": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/22/7743a4e2b593a88ca7947eaca0259093_1966415549222127029.png",
-        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/e7d5576f39e9c3f49848232b2ae2bca7_2450519169339598574.png"
+        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/e7d5576f39e9c3f49848232b2ae2bca7_2450519169339598574.png",
+        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/07/21/be629e986380c894d4104435fda2d348_5184507841951653932.png"
     }
 ]

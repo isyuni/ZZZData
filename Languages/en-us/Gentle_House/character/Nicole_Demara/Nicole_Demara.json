@@ -1,7 +1,7 @@
 [
     {
         "name": "Nicole Demara",
-        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/1a82a5a83749ca6b128c81381fe94063_1074261892080967189.png",
+        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/1a82a5a83749ca6b128c81381fe94063_1074261892080967189.png",
         "des": "A wise choice! But my commission fee isn't cheap! — Nicole Demara",
         "faction": "Gentle House AKA Cunning Hares",
         "cv_jp": "Serizawa Yu",
@@ -12,6 +12,7 @@
         "about": "Nicole is the founder of the New Eridu Odd-Job Agency the Cunning Hares. After years on the streets, Nicole's crafty and cunning behavior has earned her a reputation among her peers as Even more cunning than a hare. Despite the agency's high commission fee, the Cunning Hares financial situation is constantly in the red...",
         "intro": "The leader of the odd-job agency the Cunning Hares, who accept all kinds of Hollow-related commissions. She's been on the streets for many years, and has a reputation among her peers as being exceedingly cunning. She's been blacklisted by many clients due to her all-or nothing approach. She loves money, but is surprisingly bad at managing it, leaving the Cunning Hares constantly on the edge of bankruptcy and owing many debts.",
         "op-public": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/19/5f32294545fc920b69ffec76b8941e3e_755592516245102567.png",
-        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/cbc325ccabf0ee64e283e69a15b4c40a_5998926089520691361.png"
+        "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/cbc325ccabf0ee64e283e69a15b4c40a_5998926089520691361.png",
+        "image": "https://webstatic.hoyoverse.com/upload/op-public/2022/05/26/8d6e5271c56645be162c0a90994bf651_9172032678112219534.png"
     }
 ]
