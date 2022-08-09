@@ -11,7 +11,7 @@ Select the language in which you want to read the description(README.md) for thi
 이 리포지토리에 대한 설명(README.md)을 읽을 언어를 선택해주세요.<br>
 [한국어](https://github.com/Usyuns/ZZZData/blob/main/Languages/ko-kr/) | [English](https://github.com/Usyuns/ZZZData/blob/main/Languages/en-us/)
 
-Optional, but I recommend turning this on.
-선택 사항이지만 이 기능을 켜는 것이 추천합니다.
+Optional, but we recommend turning this on. (Most recommended: Custom)
+선택 사항이지만 이 기능을 켜는 것이 추천합니다. (가장 추천: Custom)
 ![image](https://user-images.githubusercontent.com/64823926/183542566-b7dc6e2f-72a8-4180-82c1-424e723a0a9a.png)
 ![image](https://user-images.githubusercontent.com/64823926/183542475-3d64a56c-dea6-4b33-902a-0f1b17bb523c.png)
