@@ -13,5 +13,4 @@ Select the language in which you want to read the description(README.md) for thi
 
 Optional, but we recommend turning this on. (Most recommended: Custom)<br>
 선택 사항이지만 이 기능을 켜는 것이 추천합니다. (가장 추천: Custom)<br>
-![image](https://user-images.githubusercontent.com/64823926/183542566-b7dc6e2f-72a8-4180-82c1-424e723a0a9a.png)
 ![image](https://user-images.githubusercontent.com/64823926/183542475-3d64a56c-dea6-4b33-902a-0f1b17bb523c.png)
