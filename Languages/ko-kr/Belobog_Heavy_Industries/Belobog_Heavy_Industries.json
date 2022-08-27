@@ -1,0 +1,14 @@
+[
+   {
+      "name": "벨로보그 중공업",
+      "description": "우리의 목표는 건물을 짓는 게 아닌 「집」을 짓는 거야",
+      "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/08/18/fe87fc5cfa0e62db928d081a943b8621_948726211224410458.png",
+      "logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/08/18/59add43fd7b5c2d8cd445b538f665443_8974027702675848018.png",
+      "color": "#FFB924"
+   },
+   {
+      "character": [
+         "콜레다 벨로보그"
+      ]
+   }
+]
