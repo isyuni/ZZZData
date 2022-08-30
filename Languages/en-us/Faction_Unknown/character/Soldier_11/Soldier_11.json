@@ -6,10 +6,11 @@
         "faction": "Faction Unknown",
         "cv_jp": "Fujii Yukiyo",
         "cv_cn": "陈雨",
-        "color": "#ffbb2a"
+        "color": "#ffbb2a",
+        "gender": "Woman"
     },
     {
-        "about": "██ File:\nName: ███ ██\nGender: Female\nAge: ██\nCodename: Soldier 11\nFaction: ████\nNotes:\n orders, loyal to the mission, efficient and calm... The perfect soldier. At least that's what the tests have shown so far.\nRecommended to be assigned to ████ squad, as she is a suitable match with the other members.",
+        "about": "██ File:\nName: ███ ██\ngender: Female\nAge: ██\nCodename: Soldier 11\nFaction: ████\nNotes:\n orders, loyal to the mission, efficient and calm... The perfect soldier. At least that's what the tests have shown so far.\nRecommended to be assigned to ████ squad, as she is a suitable match with the other members.",
         "intro": "A model soldier who follows orders and stays loyal to the mission... At least that's what Soldier 11 demands of herself. Weapons don't need emotions, and need only follow orders... At least that's what Soldier 11 tells herself. No matter how strong the enemy, just get fired up and face it head on... At least that's what Soldier 11 does. She's shed her weakness along with her name, leaving only resolve... At least that's what Soldier 11 thinks.",
         "op-public": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/10/1e2be8003971245b8c5a7c662ea2c579_826882760372211853.png",
         "character": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/13/80a02e16c97640d46d1eb2518c058f32_2478131301282334051.png",
