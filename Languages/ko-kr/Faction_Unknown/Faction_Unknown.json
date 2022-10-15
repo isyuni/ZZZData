@@ -1,10 +1,10 @@
 [
     {
-        "name": "소속 불명",
-        "description": "정보 미공개",
-        "icon": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/edcfe32b67ddd9c82ef4be4d9e88793d_4703895427009632287.png",
-        "logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/10/fb8e50f12b6c4623b6b65d9edffd76dd_4692260395450565067.png",
-        "color": "#BDBDBD"
+        "camp_name": "소속 불명",
+        "camp_desc": "정보 미공개",
+        "camp_banner": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/15/edcfe32b67ddd9c82ef4be4d9e88793d_4703895427009632287.png",
+        "camp_logo": "https://webstatic.hoyoverse.com/upload/op-public/2022/06/10/fb8e50f12b6c4623b6b65d9edffd76dd_4692260395450565067.png",
+        "camp_original_color": "#BDBDBD"
     },
     {
         "character": [
